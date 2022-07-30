@@ -1,4 +1,9 @@
-
-HOST-SUFFIX,biliapi.com,BiliBili
-HOST-SUFFIX,biliapi.net,BiliBili
-HOST-SUFFIX,bilibili.com,BiliBili
+HOST,api.live.bilibili.com,BiliBili
+HOST,api.vc.bilibili.com,BiliBili
+HOST,passport.bilibili.com,BiliBili
+HOST,live-trace.bilibili.com,BiliBili
+HOST,message.bilibili.com,BiliBili
+HOST,cm.bilibili.com,BiliBili
+HOST,api.bilibili.com,BiliBili
+HOST,api.bilibili.tv,BiliBili
+HOST,app.bilibili.com,BiliBili
